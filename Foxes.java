@@ -3,7 +3,7 @@
  * This class represents a Fox Critter in the simulation.
  * The fox can chase and eat(infect) rabbits, while increasing it's speed & managing its hunger level.
  * @author: Halleluya Almaw 
- * @version: 1.0 (11/2/2024)
+ * @version: 1.0 
  *
  */
  
@@ -94,4 +94,5 @@ public class Foxes extends Critter {
   
    
 }
+
 
