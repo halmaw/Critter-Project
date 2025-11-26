@@ -3,7 +3,7 @@
  * This class represents a Rabbit Critter in the simulation.
  * The rabbit can evade foxes while managing its speed.
  * @author: Halleluya Almaw 
- * @version: 1.0 (11/2/2024)
+ * @version: 1.0 
  *
  */
  
@@ -69,4 +69,5 @@ public class Rabbits extends Critter {
       return Color.WHITE;
    }
     
+
 }
